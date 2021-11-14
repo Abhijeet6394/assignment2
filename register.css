@@ -1,0 +1,11 @@
+input{
+    margin: 10px;
+}
+#main{
+    background-color: rgb(101, 180, 170);
+    text-align: center;
+    width: 50%;
+}
+h1{
+    color: blue;
+}
